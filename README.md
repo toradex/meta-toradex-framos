@@ -46,7 +46,10 @@ Run 'bitbake-layers add-layer meta-toradex-framos'
 II. Misc
 ========
 
-Additional information about the [Framos FSM:GO IMX662](https://www.framos.com/en/products/fsmgo-with-imx662-sensor-27362)
+Additional information about the Framos Cameras:
+- [Framos FSM:GO IMX662](https://www.framos.com/en/products/fsmgo-with-imx662-sensor-27362)
+- [Framos FSM:GO IMX676](https://www.framos.com/en/products/fsmgo-with-imx676-sensor-27363)
+- [Framos FSM:GO IMX678](https://www.framos.com/en/products/fsmgo-with-imx678-sensor-27364)
 
 It is recommended that this layer is used only with the [Toradex Linux BSP](https://developer.toradex.com/linux-bsp/os-development/build-yocto/build-a-reference-image-with-yocto-projectopenembedded)
 
