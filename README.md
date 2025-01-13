@@ -12,12 +12,12 @@ Dependencies
 
 - meta-toradex-bsp-common
   - URI: git://git.toradex.com/meta-toradex-bsp-common
-  - branch: kirkstone-7.x.y
+  - branch: scarthgap-7.x.y
   - revision: HEAD
 
 - meta-toradex-distro
   - URI: git://git.toradex.com/meta-toradex-distro
-  - branch: kirkstone-7.x.y
+  - branch: scarthgap-7.x.y
   - revision: HEAD
 
 
